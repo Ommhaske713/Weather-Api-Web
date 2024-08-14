@@ -12,9 +12,9 @@ export default function ContentBox({ info }) {
 
   const IMG_URl = "https://images.unsplash.com/photo-1685213202120-1cd90f8ee08e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fG92ZXJjYXN0JTIwY2xvdWQlMjB3ZWF0aGVyfGVufDB8fDB8fHww"
 
-  const RAINWEATHER_URL = "https://i.imgur.com/LtKmmY3.jpeg";
-  const COLDWEATHER_URL = "https://i.imgur.com/NGyCi03.jpeg";
-  const HOTWEATHER_URL = "https://media.istockphoto.com/id/1007768414/photo/blue-sky-with-bright-sun-and-clouds.jpg?s=1024x1024&w=is&k=20&c=P68MuQDaXK7NM55yd1ivyrW7NZ2CokCNSfDcXe8BdH0=";
+  const RAINWEATHER_URL = "https://media.istockphoto.com/id/1254778015/photo/woman-crossing-street-downtown-in-rain.jpg?s=2048x2048&w=is&k=20&c=muPMsVPliaRCER22vk11y7iX7Wjrdn8e4_TeJLenumo=";
+  const COLDWEATHER_URL = "https://media.istockphoto.com/id/1455396963/vector/woman-wearing-warm-clothes-during-winter-blister-vector-cartoon-illustration.jpg?s=2048x2048&w=is&k=20&c=sxSXV6YuZWjLiWMiw72Q-gQKTRYOBYtAkODHadqc170=";
+  const HOTWEATHER_URL = "https://media.istockphoto.com/id/137199031/photo/sun-in-the-blue-sky-with-lensflare.jpg?s=1024x1024&w=is&k=20&c=L-shwSkT7Xb7rBTT962cCz0bWTEVXjp7ER2l7UlsBew=";
   
   
   return (
